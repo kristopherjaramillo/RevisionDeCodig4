@@ -1,3 +1,8 @@
+// Este código sirve para que ingreses 2 datos, un dato del jugador 1, y otro dato del jugador 2, estos datos hacen referencia
+// al juego "piedra, papel o tijeras", una vez escrito un dato entre estos 3 (piedra, papel o tijeras) en base a la elección se declarará a un ganador
+
+
+
 package com.generation;
 
 import java.util.Scanner; // se importó la clase scanner ya que sin esa no puede funcionar el código
